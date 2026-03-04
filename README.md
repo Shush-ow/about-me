@@ -1,5 +1,5 @@
 # about-me
-サイトURL: https://selaphii.github.io/about-me/
+サイトURL: https://Shush-ow.github.io/about-me/
 このサイトは私の自己紹介のために制作しました。
 私はゲームが好きなので、ゲーム感があるようなネオン風にしました。
 私はゲームや本、アニメが好きなのでそれをサイトに書きました。
